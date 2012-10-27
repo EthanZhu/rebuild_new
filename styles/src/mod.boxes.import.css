@@ -1,0 +1,63 @@
+﻿/* File Created: 十月 10, 2012 */
+.box{border:1px solid #dcdcdc;}
+.main-boxes .box {border-top:0; border-left:0; width:321px; padding:10px 17px;}
+.main-boxes h4 {background:#f5f5f5; padding-left:20px; height:39px; overflow:hidden; line-height:40px; border-bottom:1px solid #e6e6e6; border-right:1px solid #dcdcdc;}
+
+.main-boxes .box .img {width:318px; height:195px; position:relative; background:#f2f2f2; border:1px solid #dcdcdc;}
+.main-boxes .box .img a, .main-boxes .box img {width:318px; height:195px;}
+.main-boxes .box .img a{display:block;}
+
+.main-boxes .box .bg {
+position: absolute;
+left: 0;
+bottom: 0;
+height: 28px;
+text-align: center;
+color: white;
+background-color: black;
+width: 100%;
+opacity: 0.7;
+_filter: alpha(opacity=70);
+    display: none;
+}
+
+.main-boxes .box .text {
+position: absolute;
+width: 100%;
+height: 28px;
+line-height: 28px;
+text-align: center;
+left: 0;
+bottom: 0;
+display: none;
+color: white;}
+
+.main-boxes .box h5 { padding:10px 0;height: 30px; margin:5px 0;
+overflow: hidden;}
+.main-boxes .box h5 a{ font-weight: bold; font-size:14px; color:#505050}
+.main-boxes .box h5 span, .main-boxes .box h5 a:hover {color:#1b918d;}
+.main-boxes .box h5 a:hover {text-decoration:underline;}
+.main-boxes .box .price, .main-boxes .box ul, .main-boxes .box .coupon-btn {float:left;padding:10px 0 10px; overflow:hidden;}
+.main-boxes .box .coupon-btn {float:right;}
+.main-boxes .box .coupon-btn a {display:inline-block;overflow:hidden; color: white;
+text-align: center;
+display: inline-block;
+}
+.main-coupon-num{line-height:33px; width:225px;}
+
+.main-boxes .box .price {width:140px; font:bold 35px \5fae\8f6f\96c5\9ed1;}
+.main-boxes .box ul { width:80px; overflow:hidden; line-height:16px;}
+.main-boxes .box ul li {clear:both; white-space:nowrap; height:16px; overflow:hidden;}
+.main-boxes .box ul span {}
+
+
+.main-boxes .box dl {clear:both; padding:10px 0 5px; border-top:1px dotted #ccc;}
+.main-boxes .box dt {float:left;}
+.main-boxes .box dd {color:#969696;float:right;}
+
+.main-boxes .main-btm {text-align:right; line-height:22px; padding:10px; border-right:1px solid #dcdcdc;}
+.main-boxes .main-btm a {display:inline-block; padding:0 20px 0 10px;background:url(/Images/icon/raquo.png) no-repeat right 5px;}
+.main-boxes .main-btm a:hover { text-decoration:none;}
+.main-boxes .main-btm a.red {background-position:right -30px;}
+.main-boxes .main-btm a.green { color:#259692;}
+.main-boxes .main-btm a.green:hover {background-position:right -30px; color:#f60;}

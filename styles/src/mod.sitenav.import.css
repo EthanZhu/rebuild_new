@@ -1,0 +1,23 @@
+﻿/* File Created: 十月 10, 2012 */
+.icon-hot,
+.icon-phone,
+.site-nav-ul li.current a,
+.site-nav .line,
+.site-nav-ul a:hover,
+.site-nav {background:url(/images/common/nav.png) no-repeat;}
+
+.site-nav { background-position:top left; background-repeat:repeat-x; height:46px; min-width:1000px; margin:0 auto;}
+.site-nav-ul {height:40px; padding-top:6px; }
+.site-nav-ul a {font-weight:bold; font-size:16px; color:#fff; display:inline-block; width:96px; height:40px;line-height:38px; text-align:center;}
+.site-nav-ul li {float:left; padding:0 15px;}
+
+.site-nav-ul li.line {background-position:0 -140px; width:2px; height:40px; padding:0;}
+.site-nav-ul li.first {padding-left:0;}
+.site-nav-ul li.current a, .site-nav li.current a:hover{background-position:0 -236px; color:#1b938f;}
+.site-nav-ul a:hover {background-position:5px -95px;color:#fff; text-decoration: none;}
+
+.site-nav-ol {line-height:44px; height:46px; }
+.icon-phone {font-size:14px; color:#fff; padding:0 0 0 25px; background-position:-80px -170px;}
+.site-nav-ol a:hover {text-decoration:underline;}
+
+.icon-hot {width:23px; height:13px; overflow:hidden; background-position:0 -184px; position:absolute; margin-top:-8px; margin-left:56px;}

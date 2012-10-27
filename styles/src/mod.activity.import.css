@@ -1,0 +1,40 @@
+﻿/* File Created: 十月 10, 2012 */
+.mark {background:url(/Images/common/mark.png?v=1.2.4) no-repeat; position:absolute; z-index:2; top:-2px; left:-2px; width:65px; height:65px; overflow:hidden; clear:both;}
+.boxhover .mark {top:-4px; left:-4px;}
+
+.activity-mark0 .mark {display:none;}
+/*
+.activity-mark8 .mark {background-position:-74px 0;}
+.activity-mark9 .mark {background-position:-139px 0;}
+*/
+.activity-mark1 .mark {background-position:-205px 0;}
+.activity-mark2 .mark {background-position:-270px 0;}
+.activity-mark3 .mark {background-position:-335px 0;}
+.activity-mark4 .mark {background-position:-400px 0;}
+.activity-mark5 .mark {background-position:-465px 0;}
+.activity-mark6 .mark {background-position:-530px 0;}
+.activity-mark7 .mark {background-position:-595px 0;}
+.activity-mark10 .mark {background-position:-660px 0;}
+/*
+.activity-mark11 .mark {background-position:-725px 0;}
+.activity-mark12 .mark {background-position:-790px 0;}
+*/
+.activity-mark13 .mark {background-position:-856px 0;}
+/*
+activity-mark0 无
+activity-mark1 新品
+activity-mark2 套餐
+activity-mark3 折扣
+activity-mark4 返券
+activity-mark5 减免
+activity-mark6 特价
+activity-mark7 抽奖
+activity-mark8 结束
+activity-mark9 过期
+activity-mark10 特惠
+activity-mark11 已领完
+activity-mark12 已卖完
+activity-mark13 试吃
+
+*/
+.sub-main mark {top:-5px; left:-5px;}

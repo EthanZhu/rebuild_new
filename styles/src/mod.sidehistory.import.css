@@ -1,0 +1,9 @@
+﻿/* File Created: 十月 15, 2012 */
+.historylist dl { line-height:22px;}
+.historylist dt {width:60px;  overflow:hidden;}
+.historylist dd {width:140px; }
+.historylist strong, .historylist span {display:block;}
+.historylist span  {color:#9e9e9e;line-height:18px;}
+.historylist dt strong {color:#f60;} 
+.historylist dd a { color:#1b9490;display:inline-block;} 
+.historylist span a {color:#9e9e9e;line-height:18px;font-size:12px; font-weight:normal; }

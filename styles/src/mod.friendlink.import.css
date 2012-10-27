@@ -1,0 +1,8 @@
+﻿/* File Created: 十月 10, 2012 */
+.frdlink{margin-top:0; padding-top:0; border-top:1px solid #d7d7d7;}
+.frdlink .inbox{padding:10px 0 6px 9px;}
+.frdlink span{ float:left; display:block; height:20px; text-align:right; width:60px; line-height:22px; }
+.frdlink .inbox ul{ float:right; width:878px; text-align:left;}
+.frdlink .inbox li{ float:left; width:99px;height:22px; line-height:22px; overflow:hidden;padding-right:10px;}
+.frdlink .inbox li a{color:#1a918b;}
+.frdlink .inbox li a:hover{ text-decoration:underline;}

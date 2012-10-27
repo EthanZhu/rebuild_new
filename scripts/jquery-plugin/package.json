@@ -1,0 +1,9 @@
+{
+	"name":"jquery-plugin/pwz-plugin",
+	"version":"1.0.2",
+	"src":"jquery-plugin",
+    "root":"",
+    "output": {
+      "pwz-plugin.js":"."
+    }
+}

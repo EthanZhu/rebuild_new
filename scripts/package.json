@@ -1,0 +1,7 @@
+{
+	"name":"dist",
+    "root":"",
+    "output":{
+        "index.js":"."
+    }
+}

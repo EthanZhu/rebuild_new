@@ -1,0 +1,11 @@
+﻿/* File Created: 十月 10, 2012 */
+.aside-news ul {padding:0 10px;border-bottom:1px solid #d7d7d7; overflow:hidden;}
+.aside-news li {overflow:hidden; line-height:22px; padding:6px 0 1px 0;border-bottom:1px dotted #d7d7d7; height:52px;}
+.aside-news li.last {border-bottom:none;}
+.aside-news i, .aside-news span {display:inline-block;padding-left:15px;}
+.aside-news i { background:url(/Images/icon/Dots.png) no-repeat left -65px; _background:url(/Images/icon/Dots.png) no-repeat left -67px;width:200px;  -o-text-overflow: ellipsis; text-overflow: ellipsis; white-space:nowrap; overflow:hidden; }
+.aside-news a {font-family:\5b8b\4f53;}
+.aside-news a:hover {color:#f50; text-decoration:none;}
+.aside-news span { color:#7daca6;}
+.aside-news p {margin:0;padding:10px 0 10px 10px; overflow:hidden; height:15px; line-height:15px;}
+.aside-news p a {background-position:left -105px; width:auto;}

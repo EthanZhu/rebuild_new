@@ -1,0 +1,43 @@
+﻿.soft-right{height:490px;}
+.mobile-download {
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	display: block;
+	width:328px !important;
+	height:540px;
+	background:#f5f5f5;
+}
+.mobile-download .cs-nav{
+    position:absolute;
+    width:328px;
+    height:40px;
+    left:0; bottom:0;
+}
+.mobile-download .cs-tips-info{height:40px;  margin:0 0; padding:0 0;background:url(/web/images/mobile_download/mobile-tips-bg.jpg) no-repeat; position:absolute; z-index:8000; width:328px; left:0; bottom:40px;}
+.mobile-download .cs-tips-message{height:40px; margin:0 0; padding:0 0;}
+.mobile-download .cs-tips-info .info{text-align:center; height:40px; line-height:40px; margin:0 0; padding:0 0;}
+.mobile-download .cs-tips-info .info b{font-size:16px; color:#09a19d;}
+
+.mobile-download .cs-nav-list{margin-top:8px;}
+.mobile-download .cs-nav-item{background:url(/web/images/mobile_download/h1.jpg) 50% 50% no-repeat; border:none; width:24px; height:24px;}
+.mobile-download .cs-nav-over{background:url(/web/images/mobile_download/on-h1.jpg) 50% 50% no-repeat}
+.mobile-download .cs-player-loading{background:#f5f5f5;}
+
+.soft-mechant-list{position:relative; width:915px; height:194px; margin-left:20px;} 
+.soft-mechant-list .cs-nav{width:915px; height: 158px; right:5px; top:18px; position:absolute;}
+.soft-mechant-list .cs-nav-item{width:156px; border:#f5f5f5 3px solid; padding:0 0; margin-right:10px;}
+.soft-mechant-list .cs-nav-item span{height:36px; line-height:36px; display:block;}
+.soft-mechant-list .cs-nav-item img{width:147px; height:110px; border:#fff 3px solid;}
+.soft-mechant-list .cs-nav-list{margin-left:18px; overflow:hidden;}
+
+.soft-mechant-list .cs-nav-over{border:#f5f5f5 3px solid;}
+
+.soft-mechant-list .cs-nav-btn{width:13px; height:34px; float:left; margin-top:45px;}
+.soft-mechant-list .cs-nav-btn span{width:13px; height:34px; background-image:url(/web/images/mobile_download/down_arrow.png); display:block;}
+.soft-mechant-list .cs-nav-active{cursor:pointer;}
+.soft-mechant-list .cs-nav-aside{margin-left:5px;}
+.soft-mechant-list .cs-nav-btn span.cs-nav-prev{ background-position:0 0;}
+.soft-mechant-list .cs-nav-btn span.cs-nav-next{ background-position:-14px 0;}
+.soft-mechant-list .cs-nav-hover span.cs-nav-next{ background-position:-14px -35px;}
+.soft-mechant-list .cs-nav-hover span.cs-nav-prev{ background-position:0 -35px;;}

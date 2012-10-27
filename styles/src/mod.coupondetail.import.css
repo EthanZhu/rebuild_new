@@ -1,0 +1,15 @@
+﻿/* File Created: 十月 15, 2012 */
+
+.coupon-detail .col-main {padding:0 50px; overflow:hidden;}
+.coupon-name{
+    font: normal 20px \5fae\8f6f\96c5\9ed1, \9ed1\4f53, Tahoma, Arial, Sans-Serif;
+    color: #333;
+    margin: 25px 0 0;
+}
+.coupon-button {
+    margin: 20px auto;
+}
+.coupon-button i {color:#f60; font-weight:bold; font-size:15px; display:inline-block;}
+.coupon-share span{width:50px;}
+.coupon-share {line-height:16px;}
+.coupon-share a{margin:0 4px;}

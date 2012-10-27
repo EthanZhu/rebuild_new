@@ -1,0 +1,5 @@
+﻿/* File Created: 十月 10, 2012 */
+.weibolist ul {padding:10px 0 10px 20px;}
+.weibolist li {float:left; padding:5px 0px; width:100px;line-height: 16px;}
+.weibolist li span {float:left; margin-right:5px;}
+.weibolist a:hover {color:#f60; text-decoration:underline;}

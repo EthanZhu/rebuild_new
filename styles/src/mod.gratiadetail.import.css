@@ -1,0 +1,49 @@
+﻿/* File Created: 十月 15, 2012 */
+.gratia-title {font:400 20px \5fae\8f6f\96c5\9ed1; line-height:28px; padding:10px 20px; color:#333;}
+.gratia-title span {color:#1b9490;}
+.gratia-top {padding:10px 10px 15px;}
+.gratia-topleft {width:230px; padding-right:2px; }
+.gratia-topright {width:450px;}
+.gratia-topleft ul {padding:100px 0 10px; border-bottom:1px solid #d7d7d7; margin:0 10px 10px 0;}
+	.gratia-topleft ul li {float:left; text-align:center; padding:0 16px;}
+	.gratia-topleft ul strong, .gratia-topleft ul span {display:block;font-size:14px; line-height:28px;}
+	.gratia-topleft ul i {font-size:14px;}
+	
+	.gratia-topleft h2 {font:400 26px \5fae\8f6f\96c5\9ed1; color:#666; padding:10px 0 0 18px;}
+	.gratia-topleft h2 span {color:#30afa8;}
+	.gratia-topleft p { padding:10px 0 20px 18px; font-size:14px; color:#999; margin:0;}
+	
+	.gratia-topleft .gratia-leftbtm { border-top:1px solid #d7d7d7; margin:0 10px 10px 0; padding:10px 0 0px 18px; font-size:14px; line-height:28px;}
+	
+	.gratia-topleft .gratia-leftbtm { border-top:1px solid #d7d7d7; margin:0 10px 10px 0; padding:10px 0 0px 18px; font-size:14px; line-height:28px;} 
+	.gratia-leftbtm .second {border:1px solid #32b0a7; color:#32b0a7; display:inline-block; padding:2px; line-height:12px;}
+	.gratia-leftbtm p {padding:0; color:#666;}
+	
+	.gratia-topright .img {width:450px; height:275px; overflow:hidden; background:#f2f2f2;}
+	
+	.gratia-mainright {background:#f5f5f5; width:190px; overflow:hidden; padding:20px;}
+	.gratia-mainright dl {line-height:22px; margin-bottom:30px;}
+	.gratia-mainright dt {font-weight:bold;}
+	.gratia-mainright dl span {display:block;}
+	.gratia-mainright h5{ line-height: 36px;}
+	
+	.gratia-mainleft {padding:20px; overflow:hidden; width:440px;}
+	.gratia-mainbtm{ padding-top:20px;}
+
+	
+	.gratia-soft {background:url(/Images/pic/app1.png) no-repeat 60px 20px; margin:10px 0 10px;padding:110px 0 30px 50px;line-height:18px; color:#007e83;border-top:1px dotted #b6b6b6; border-bottom:1px dotted #b6b6b6; }
+
+	.gratia-soft a.blue:hover {text-decoration:underline;}
+	.gratia-weibo {color:#007e83; }
+	
+.exgratia-info{width:441px; color:#141414; }
+.exgratia-info h2{margin:10px 0 0 0;}
+.exgratia-info p{line-height:20px; padding:0 0; margin:0 0;}
+.exgratia-info h2, .exgratia-info p{font-size:14px;}
+.exgratia-info h2{height:26px; background:#32b0a7 url(/web/template/web/template/p1.png) left top no-repeat; line-height:26px; padding-left:37px; color:#fff !important;}
+.exgratia-info table td{height:31px;line-height:31px;font-size:14px; color:#666;}
+.exgratia-info ul{margin:0 0;  padding:10px 0 0 0;}
+.exgratia-info li{line-height:18px; padding:2px 5px 2px 17px; color:#595959; background:url(/web/template/web/exgratia_point.png) 2px 8px no-repeat;}
+.exgratia-info li p{padding:0 0; margin:0 0;}
+.exgratia-info img{margin:10px auto;}
+.exgratia-info strong{font-size:14px;}

@@ -1,0 +1,28 @@
+body{_background:url(/web/images/blank.gif) fixed;}
+a.backtop{
+    cursor:pointer;
+    display:none;
+    height:50px;
+    position:fixed;
+    text-indent:-9999px;
+    width:50px;
+    display:block;
+    background-image:url(/web/images/icon/up.png?v=2.1.0);
+	background-position: 0 0;
+	z-index: 10;
+}
+a.backtop:hover{
+	background-position:0 50px;
+}
+.back-click{
+	background-position:0 50px;
+}
+
+.img .bg,.img .text{display:none;}
+
+.toplist ul li{cursor:pointer;}
+.toplist ul li dl{display:none;}
+.toplist ul li.first dl{display:block;}
+
+#pdw-search-form input{ color:#999;}
+#pdw-search-form input.focus{ color:#000;}

@@ -1,0 +1,12 @@
+.pdw-countdown-list span
+{
+    display: inline-block;
+    margin-right: 2px;
+    padding: 0 1px;    
+}
+.pdw-countdown-list span.second
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #87B3D6;
+    padding: 0 2px;  
+}

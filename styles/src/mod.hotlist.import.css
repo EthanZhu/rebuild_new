@@ -1,0 +1,12 @@
+﻿/* File Created: 十月 15, 2012 */
+.hotlist {background:#fafafa;}
+.hotlist dt, .hotlist dt a, .hotlist img {display:block; width:210px; height:130px;}
+.hotlist dd {line-height:22px;}
+.hotlist span {color:#1b9490;}
+.hotlist dd a:hover {color:#1b9490;}
+.hotlist ul {float:left; width:140px; line-height:18px;}
+.hotlist ul span {font:bold 20px \5fae\8f6f\96c5\9ed1; color:#f60; width:60px; display:inline-block;}
+.hotlist ul i {color:#787878;  line-height:14px; display:inline-block; padding-left:5px;}
+.hotlist ul strong {padding-left:5px;}
+.hotlist a.right {margin-top:5px;}
+.hotlist a.right:hover {color:#fff; text-decoration:none;}

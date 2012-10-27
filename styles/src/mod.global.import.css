@@ -1,0 +1,150 @@
+﻿/* File Created: 十月 10, 2012 */
+
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td{
+	margin:0;padding:0;
+	}
+body,button,input,select,textarea{
+	font:12px/1.5 tahoma,arial,\5b8b\4f53;
+	_font:12px/1.6 tahoma,arial,\5b8b\4f53;
+	}
+body{color: #666;}
+h1,h2,h3,h4,h5,h6{
+	font-size:100%;
+    color: #444;
+    font-weight: bold;
+	}
+address,cite,dfn,em,var{
+	font-style:normal;
+	}
+code,kbd,pre,samp{
+	font-family:courier new,courier,monospace;
+	}
+small{
+	font-size:12px;
+	}
+ul,ol{
+	list-style:none;
+	}
+a{
+    color: #505050;
+	text-decoration:none;
+	}
+a:hover{
+	text-decoration:underline;
+	}
+sup{
+	vertical-align:text-top;
+	}
+sub{
+	vertical-align:text-bottom;
+	}
+legend{
+	color:#000;
+	}
+fieldset,img{
+	border:0;
+	}
+button,input,select,textarea{
+	font-size:100%;
+	}
+table{
+	border-collapse:collapse;border-spacing:0;
+	}
+/*
+    修复IE6在window.onload或domready时重复下载Sprites图片的Bug,h
+    ref: http://ued.taobao.com/blog/2010/05/17/ie6-duplicate-load-bug/
+*/
+html {
+    zoom: expression(function(ele){
+        ele.style.zoom = "1";
+        document.execCommand("BackgroundImageCache", false, true);
+    }(this));
+}
+.zm{zoom:1;}
+i{font-style:normal;}
+.w960{ width: 960px;}
+.ma{ margin-left: auto; margin-right:auto;}
+.fl{ float: left;}
+.fr{ float: right;}
+.pa{ position: absolute;}
+.pr{ position: relative;}
+.tl{ text-align: left;}
+.tr{ text-align: right;}
+.tc{ text-align: center;}
+.dn{ display:none;}
+.vh{ visibility: hidden;}
+.oh{ overflow: hidden;}
+.vm{ vertical-align: middle;}
+/*clear*/
+.clear {
+	clear:both;
+	margin:0px;
+	padding:0px;
+}
+.clearfix:after {
+	clear:both;
+	content:".";
+	display:block;
+	height:0;
+	visibility:hidden
+}
+.clearfix {
+*display:inline-block
+}
+.pointer {
+	cursor:pointer;
+}
+.di{ display: inline;}
+.db{display:block;}
+.dib{ display: inline-block;}
+.mt25{ margin-top:25px;}
+.mt15{ margin-top: 15px;}
+.mt10{ margin-top: 10px;}
+.mt5{ margin-top: 5px;}
+.white {color:#fff;}
+.red {color:#fd5c02;}
+.gray{color:#999;}
+.blue{color:#0066CC;}
+.green {color:#028581;}
+.bold{font-weight:bold;}
+.f14{ font-size: 14px;}
+.f16{ font-size: 16px;}
+.f18{ font-size: 18px;}
+.h53{height:53px;}
+
+.mtb10{margin:10px 0;}
+.mtb15{margin:15px 0;}
+.mb15{margin-bottom:15px;}
+.p10{padding:10px;}
+.mr15{margin-right:15px;}
+.mr10{margin-right:10px;}
+.pr10{padding-right:10px;}
+.pl10{padding-left:10px;}
+.pl15{padding-left:15px;}
+.pl20{padding-left:20px;}
+.pt15{padding-top:15px;}
+.pt10{padding-top:10px;}
+.pt5{padding-top:5px;}
+.pb10{padding-bottom:10px;}
+.pb5{padding-bottom:5px;}
+.p0{padding:0 0 !important;}
+.sub-bd{border:1px solid #dcdcdc;}
+.main-bd{border:2px solid #dcdcdc;}
+.cp-topbd{border-top:1px dotted #CCCCCC;}
+.bot-bd{border-bottom:1px dotted #E2E2E2;}
+.pb10{padding-bottom:10px;}
+.through{text-decoration:line-through}
+.aside-news,
+.toplist-smiple,
+.draw-more,
+.focus-result,
+.hotlist,
+.historylist,
+.likelist,
+.coupon-biz,
+.faqlist,
+.recentlist,
+.ad-service,
+.weibolist,
+.brandlist,
+.toplist { }

@@ -1,0 +1,18 @@
+﻿/* File Created: 十月 10, 2012 */
+.w960{ width: 960px;}
+.w712{ width: 712px;}
+.w710{ width: 712px;}
+.w235{ width: 235px;}
+.w233{width:233px;}
+.w610{width:610px;}
+.w70{width:70px;}
+#header {
+    height: 95px;
+}
+.main-boxes {border:2px solid #dcdcdc; border-right-width:1px; margin-bottom:15px;}
+.col-sub h5{ font-size: 14px;line-height: 36px;padding-left: 12px;background: none repeat scroll 0 0 #ECECEC;}
+.col-sub i{ font-style: normal;}
+
+#footer {
+    background:#ebebeb; width:100%; margin:25px auto 0;
+}

@@ -1,0 +1,1 @@
+define(function(e,t){var n=e("jquery"),r=e("api-config"),i=e("./tools"),s=e("./../web-ui/dialog"),o=e("./attention"),u=t,a,f,l=function(e){n("body").append("<p>"+e+"</p>")},c=function(){l("success:fCouponSuccess")},h=function(){l("success:fSuccessEvent")};u.fCouponSuccess=c,u.fSuccessEvent=h});

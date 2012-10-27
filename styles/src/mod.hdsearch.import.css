@@ -1,0 +1,9 @@
+﻿/* File Created: 十月 10, 2012 */
+.head-search {background:url(/images/common/search.png) no-repeat 0 -1px; width:321px; height:31px; overflow:hidden;clear: right;}
+.head-search span {display:inline-block; float:left;}
+.head-search input {background:none; border:0;}
+.head-search .srh-text {width:215px; height:25px; overflow:hidden; padding:2px 2px 4px 30px;}
+.head-search .srh-text input{width:215px; height:25px; overflow:hidden;  line-height:25px;color: #999;}
+.head-search .srh-btn {height:31px; width:65px; overflow:hidden; cursor:pointer;}
+.head-search .srh-btn:hover {background:url(/images/common/search.png) no-repeat -247px -41px; }
+.head-search input.focus{color:#333}

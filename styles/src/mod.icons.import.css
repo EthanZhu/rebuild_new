@@ -1,0 +1,10 @@
+﻿/* File Created: 十月 10, 2012 */
+.icon-sohu, .icon-netease,
+.icon-qzone, .icon-sina, .icon-renren, .icon-tencent, .icon-qq {background:url(/images/icon/Share.png) no-repeat; width:16px; height:16px; overflow:hidden; display:inline-block;}
+.icon-qzone {background-position:0 0;}
+.icon-sina {background-position:-26px 0;}
+.icon-renren {background-position:-52px 0;}
+.icon-tencent {background-position:-78px 0;}
+.icon-qq {background-position:-105px 0;}
+.icon-sohu {background-position:-130px 0;}
+.icon-netease {background-position:-156px 0;}

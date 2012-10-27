@@ -1,0 +1,1 @@
+define(function(e,t){var n=e("jquery"),r=e("api-config"),i=e("./error"),s=e("./../web-ui/dialog"),o=t,u=function(e){n("body").append("<p>"+e+"</p>")},a=function(){u("attention:fAttention")};o.fAttention=a});

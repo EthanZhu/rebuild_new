@@ -1,0 +1,7 @@
+﻿/* File Created: 十月 15, 2012 */
+.bread-crumbs { color: #008a86; padding: 10px; line-height: 22px; overflow: hidden;}
+.bread-crumbs a {color: #008a86;}
+.bread-crumbs span { font-size: 14px; color:#666; }
+.bread-crumbs a:hover,
+.bread-crumbs a:hover strong {color:#f50;}
+.bread-crumbs a:hover{ text-decoration:none;}

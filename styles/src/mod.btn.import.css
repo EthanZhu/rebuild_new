@@ -1,0 +1,108 @@
+﻿/* File Created: 十月 10, 2012 */
+.coupon-btn{color:#fff; font-weight:bold; text-align:center;width:89px; height:33px; }
+.coupon-btn a{display:inline-block; overflow:hidden; font-size: 14px; }
+.coupon-btn a:hover {text-decoration: none;}
+
+.cpbtn-free{background:url(/Images/btn/getcoupon.png) no-repeat left top; width:89px; height:33px; line-height:33px;}
+.cpbtn-free:hover {background-position:left bottom;text-decoration: none;}
+
+.ex-gratia .coupon-btn{width:100px; height:40px;}
+
+.cpbtn-detail, .cpbtn-end, .cpbtn-over, .cpbtn-none, .cpbtn-expired, .cpbtn-wait{ background-image:url(/Images/btn/btn.png); background-repeat:no-repeat;width:100px; height:40px;}
+.cpbtn-detail {background-position: -100px top;}
+.cpbtn-detail:hover {background-position:-100px bottom;}
+.cpbtn-end {background-position: -200px top;}
+.cpbtn-over {background-position: -300px top;}
+.cpbtn-none {background-position: -400px top;}
+.cpbtn-expired {background-position:-500px top;}
+.cpbtn-wait {background-position: right top;}
+/*
+cpbtn-detail 查看详情
+cpbtn-end 已结束
+cpbtn-over 已卖光
+cpbtn-none 已领完
+cpbtn-expired 已过期
+cpbtn-wait 即将开始
+*/
+
+
+.btn-login {background:url(/Images/User/signbg.png?v=2.3.1) no-repeat left -277px; width:91px; height:37px; overflow:hidden; border:0; cursor:pointer; margin-right:8px; display:inline-block;}
+.btn-signup {background:url(/Images/User/signbg.png?v=2.3.1) no-repeat left -101px; width:120px; height:37px; overflow:hidden; border:0; cursor:pointer; margin-right:20px; display:inline-block;}
+
+.btn-green {background:url(/images/btn/greenbtn.png) no-repeat left top; width:100px; height:28px; overflow:hidden; color:#fff; border:0; text-align:center; vertical-align:middle; line-height:28px; display:inline-block; cursor:pointer; font-size:14px;}
+
+.btn-green2 {background:url(/images/btn/greenbtn2.png?v=1.2.3) no-repeat left top; width:68px; height:26px; overflow:hidden; color:#fff; border:0; text-align:center; vertical-align:middle; line-height:26px; display:inline-block; cursor:pointer; font-weight:bold;}
+a.btn-green2:hover {color:#fff; background-position:left bottom;}
+.btn-green3, .btn-gray, .btn-gray-long {background:url(/images/btn/greenbtn3.png) no-repeat;  width:110px; height:28px; overflow:hidden; color:#fff; border:0; text-align:center; vertical-align:middle; line-height:28px; display:inline-block; cursor:pointer; font-size:14px;}
+.btn-green3 {background-position:left top;}
+a.btn-green:hover,a.btn-green2:hover,a.btn-green3:hover, a.btn-gray:hover{ text-decoration:none;}
+.btn-gray, .btn-gray-long {background-position:left bottom;}
+
+.btn-green4 {background:url(/images/btn/greenbtn4.png) no-repeat;  width:60px; height:23px; overflow:hidden; color:#fff; border:0; text-align:center; vertical-align:middle; line-height:23px; display:inline-block; cursor:pointer; font-size:12px;}
+
+
+
+.fetch-btn {
+width: 144px;
+height: 35px;
+overflow: hidden;
+font-size: 0;
+line-height: 0;
+background: url(/Images/btn/obtainbtn.png) no-repeat 0 0;
+display: inline-block;
+zoom: 1;
+overflow: hidden;
+vertical-align: middle;
+}
+.obtain-btn:hover {
+background-position: 0 -65px;
+}
+.finished-btn{ background-position: 0 -269px; cursor: default; font:bold 16px ''; color:#666; height: 25px; padding:8px 0 2px;}
+
+.finished-btn:hover { color:#666;}
+
+.btn-big {width:265px; height:70px; padding:10px 0 0 30px; overflow:hidden; position:absolute; z-index:2; background:url(/Images/btn/bigbtn.jpg) no-repeat; top:0; left:-64px; display:block;
+			  color:#fff; font:bold 40px \5fae\8f6f\96c5\9ed1;
+			  }
+			  .btn-big i {font:bold 30px \5fae\8f6f\96c5\9ed1}
+	.btn-buy {background-position:0 -19px;}
+	.btn-get {background-position:0 -130px;}
+	.btn-over {background-position:0 -235px;}
+	.btn-none {background-position:0 -340px;}
+	.btn-expired {background-position:0 -450px;}
+	.btn-end {background-position:0 -550px;}
+	.btn-wait {background-position:0 -659px;}
+	.btn-off {background-position:0 -769px;}
+	
+	.btn-mid {width:140px; height:55px; display:inline-block; overflow:hidden; cursor:pointer; background:url(/Images/btn/btnmid.png) no-repeat;}
+	.btnbtm-get {background-position:0 0px;}
+	.btnbtm-buy {background-position:0 -53px;}
+	
+	.btnbtm-over, .btnbtm-none, .btnbtm-expired, .btnbtm-end, .btnbtm-wait, .btnbtm-off {background:url(/Images/btn/btnmid2.png) no-repeat; width:137px;}
+	.btnbtm-over {background-position:-170px 0;}
+	.btnbtm-none {background-position:-308px 0;}
+	.btnbtm-expired {background-position:-445px 0;}
+	.btnbtm-end {background-position:-581px 0;}
+	.btnbtm-wait {background-position:-856px 0;}
+	.btnbtm-off {background-position:-719px 0;}
+	/*
+	btn-get 免费领取
+	btn-buy 购买
+	btn-over 已领完
+	btn-none 卖光了
+	btn-expired 已过期
+	btn-end 已结束
+	btn-wait 即将开始
+	btn-off 已下架
+
+	btnbtm-get 免费领取
+	btnbtm-buy 购买
+	*/
+.btn:hover{ text-decoration:none;}
+
+.home-coupon .expired .coupon-btn a,
+.home-coupon .expired .coupon-btn a:hover,
+.biz-list .expired .coupon-btn a,
+.coupon-list .expired .coupon-btn a,
+.biz-list .expired .coupon-btn a:hover,
+.coupon-list .expired .coupon-btn a:hover {background:url(/Images/btn/graybtn2.png) no-repeat left top; color:#fff; text-align:center; display:inline-block; width:89px; height:33px;  line-height:33px; }

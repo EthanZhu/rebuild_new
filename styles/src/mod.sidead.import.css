@@ -1,0 +1,14 @@
+﻿/* File Created: 十月 10, 2012 */
+.ad-download {width:135px; height:50px; overflow:hidden;background:url(/Images/pic/1.jpg?v=1.2.3) no-repeat left top; padding:65px 0 0 100px;}
+.ad-download1{background:url(/Images/pic/5.jpg) no-repeat left top;}
+.ad-download a {width:122px; height:38px; overflow:hidden; display:inline-block; background:url(/Images/btn/download.png) no-repeat left top;text-decoration: none;}
+.ad-download1 a{background:url(/Images/btn/download1.png) no-repeat left 10px;text-decoration: none;}
+.ad-download a:hover { background-position:left -43px;}
+.ad-download1 a:hover{background:url(/Images/btn/download1.png) no-repeat left 10px;}
+
+.ad-service img{ margin:5px 0 5px 5px;}
+
+.ad-coop {margin-bottom:15px;}
+.ad-coop, .ad-coop a {width:235px; height:153px;}
+.ad-coop a {display:inline-block; background:url(/Images/pic/4.jpg?v=1.2.3) no-repeat left top;}
+.ad-coop a:hover {background-position:left bottom;}

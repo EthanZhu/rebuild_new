@@ -1,0 +1,20 @@
+﻿/* File Created: 十月 10, 2012 */
+.change-city{position:relative; float:left; margin:45px 0 0 15px; z-index:2000;}
+.change-city a{display:block;font-family:宋体;}
+.change-city a:hover{color:#ff5000;text-decoration: none;}
+.pdw-cur-city{z-index: 10; position:relative; margin:0 0; padding:0 0;}
+.pdw-cur-city a{width:56px; height:30px; background-image:url(/images/common/header.png); background-repeat:no-repeat; font-size: 14px; line-height:29px; padding-left:12px; color:#505050;}
+.pdw-cur-city a:hover{background-position:0 -30px; line-height:29px;}
+.city-clicked a,.city-clicked a:hover{background-position:0 -60px;}
+.city-list{ width:235px; margin-top:-6px; display:none; z-index: 5;position:absolute;}
+.city-list a{width:45px; height:26px; line-height:26px; text-align:center; float:left; display: inline; color:#126baf;}
+.city-corner{width:4px; height:4px; line-height:2px;font-size:2px; background-image:url(/web/images/city-corner.png);_background-image:url(/web/images/city-corner.gif); background-repeat:no-repeat;}
+.city-corner-topright{background-position:0 -4px;}
+.city-corner-botleft{background-position:0 -8px;}
+.city-corner-botright{background-position:0 -12px;}
+.city-border{background-image:url(/web/images/line-point.gif); background-color:#ffffff; }
+.city-border-hrtop{background-repeat:repeat-x; background-position: left top;}
+.city-border-hrbot{background-repeat:repeat-x; background-position: left bottom;}
+.city-border-vtleft{background-repeat:repeat-y; background-position: top left;}
+.city-border-vtright{background-repeat:repeat-y; background-position: top right;}
+.city-ptb5{padding:5px 0; background-color:#ffffff; }

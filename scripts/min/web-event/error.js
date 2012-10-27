@@ -1,0 +1,1 @@
+define(function(e,t){var n=e("jquery"),r=e("./tools"),i=t,s=function(e){n("body").append("<p>"+e+"</p>")},o=function(e,t){s("error:fInitError")};i.fInitError=o});

@@ -1,0 +1,7 @@
+﻿/* File Created: 十月 15, 2012 */
+.faqlist ul {padding: 10px 12px;}
+.faqlist li {line-height:22px; background:url(/Images/icon/Dots.png) no-repeat 0 -65px; padding-left:13px;}
+.faqlist li a {color:#1b9490; width:195px; display:inline-block;}
+.faqlist li a:hover {color:#ec4b01; text-decoration:none;}
+.faqlist span {display:inline-block; border-top:1px solid #ebebeb; padding:8px 13px; width:207px;}
+.faqlist span a {display:inline-block; background:url(/Images/icon/Dots.png) no-repeat 0 -104px; padding-left:13px;}

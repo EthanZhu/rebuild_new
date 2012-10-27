@@ -1,0 +1,14 @@
+﻿/* File Created: 十月 15, 2012 */
+.coupon-detail .cpinfo-title{
+    font-weight: 600;
+    color: #666;
+    background: url(/Images/icon/Dots.png) no-repeat 0 13px;
+    margin:0 0 5px;
+    line-height: 36px;
+}
+.coupon-info{padding:15px 0;color:#595959;}
+.coupon-info li{color:#595959; padding:2px 0; }
+.coupon-template li{ line-height:18px; background:url(/web/template/web/coupon_point.gif) left 9px no-repeat; padding-left:15px;}
+.coupon-template h4{font-size:16px; padding:10px 0 2px;}
+.coupon-content li{ line-height: 22px;}
+.coupon-content li span{color:#1B9490}

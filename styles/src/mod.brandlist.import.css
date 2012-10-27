@@ -1,0 +1,5 @@
+﻿/* File Created: 十月 11, 2012 */
+.brandlist ul {padding:5px 0 5px 3px;}
+.brandlist li {float:left; width:102px; height:72px;padding:4px;}
+.brandlist li a {display:block; width:100px; height:70px; position:relative; background:#333; border:1px solid #cbcbcd;}
+.brandlist li a img {position:absolute;width:100px; height:70px;}

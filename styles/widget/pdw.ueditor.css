@@ -1,0 +1,17 @@
+﻿.exgratia-info{width:441px; color:#141414; }
+.exgratia-info h2{margin:10px 0 0 0;}
+.exgratia-info p{line-height:20px; padding:0 0; margin:0 0;}
+.exgratia-info h2, .exgratia-info p{font-size:14px;}
+.exgratia-info h2{height:26px; background:#32b0a7 url(/web/template/web/template/p1.png) left top no-repeat; line-height:26px; padding-left:37px; color:#fff !important;}
+.exgratia-info table td{height:31px;line-height:31px;font-size:14px; color:#666;}
+.exgratia-info ul{margin:0 0;  padding:10px 0 0 0;}
+.exgratia-info li{line-height:18px; padding:2px 5px 2px 17px; color:#595959; background:url(/web/template/web/exgratia_point.png) 2px 8px no-repeat;}
+.exgratia-info li p{padding:0 0; margin:0 0;}
+.exgratia-info img{margin:10px auto;}
+.exgratia-info strong{font-size:14px;}
+
+.coupon-info{padding:5px 0 15px 0;}
+.coupon-info p,.coupon-info li p{padding:0 0; margin:0 0;}
+.coupon-info{ font-size:12px; color:#595959;}
+.coupon-info li{line-height:16px; padding:2px 0; background:url(/web/template/web/coupon_point.gif) left 7px no-repeat; padding-left:17px;}
+.coupon-info .info-cnt li{background:none; padding-left:0px;}

@@ -1,0 +1,84 @@
+﻿/* File Created: 十月 10, 2012 */
+.slider{ height: 80px;margin: 10px auto;}
+.content-shown {
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	display: block;
+	background:#bbeeed;
+}
+.content-shown .cs-nav {
+	position: absolute;
+	display: block;
+	z-index: 2000;
+	bottom:5px;
+	right:5px;
+}
+.cs-nav-list {
+	position: relative;
+	float: left;
+	overflow: hidden;
+}
+.cs-nav-items {
+	display: block;
+	overflow: hidden;
+	z-index: 2001;
+}
+.cs-nav-item{
+    float: left;
+	display: inline;
+	text-align: center;
+	overflow: hidden;
+	z-index: 2002;
+	cursor: pointer;
+}
+.content-shown .cs-nav-item {
+	width: 16px;
+	height: 16px;
+	margin-right: 3px;
+	background: #e1d6d2;
+	color:#1f0d0b;
+}
+.cs-nav-item a {
+	vertical-align: middle;
+	display: block;
+	overflow: hidden;
+}
+
+.content-shown .cs-nav-active {
+	cursor: pointer;
+}
+
+.content-shown .cs-nav-over {
+	width:14px; 
+	height:14px;
+	color:#d5f0e1;
+	line-height:14px;
+	background:#dc8236;
+	border:#ec7b1b 1px solid;
+}
+
+.cs-player {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+}
+.cs-player-list {
+	display: block;
+}
+.cs-player-item {
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: #fff;
+	font-size: 14px;
+}
+.cs-player-loading {
+	background: #bbeeed url(/web/images/loading_black.gif?v=1.2.3) center center no-repeat;
+}
+.cs-load-missing {
+	color: #fff;
+	font-size: 14px;
+	background: #bbeeed url(/web/images/error.png) 50% 50% no-repeat;
+	_background: #bbeeed url(/web/images/error_ie6.png) 50% 50% no-repeat;
+}

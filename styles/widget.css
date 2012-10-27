@@ -1,0 +1,80 @@
+﻿body{_background:url(/web/images/blank.gif?max_age=19830211&d=20121026222558) fixed}
+a.backtop{cursor:pointer;display:none;height:50px;position:fixed;text-indent:-9999px;width:50px;display:block;background-image:url(/web/images/icon/up.png?v=2.1.0?max_age=19830211&d=20121026222558);background-position:0 0;z-index:10}
+a.backtop:hover{background-position:0 50px}
+.back-click{background-position:0 50px}
+.img .bg,.img .text{display:none}
+.toplist ul li{cursor:pointer}
+.toplist ul li dl{display:none}
+.toplist ul li.first dl{display:block}
+#pdw-search-form input{color:#999}
+#pdw-search-form input.focus{color:#000}
+.popup-overlay{width:100%;height:1389px;opacity:.15;filter:Alpha(opacity=15);position:absolute;left:0;top:0;background-color:#002c2b;z-index:5000}
+.popup-overlay iframe{width:100%;opacity:0;filter:Alpha(opacity=0);position:absolute;left:0;top:0}
+.popup{border:2px solid #5e5e5e;position:absolute;width:380px;background:#fff;left:50%;top:50%;margin-top:-100px;margin-left:-190px;z-index:5001}
+.popup a:hover{text-decoration:underline}
+.popup .popup-title{background:#e6e6e6;padding:5px 10px;height:26px;line-height:26px;font-size:16px}
+.popup-notitle .popup-title{display:none}
+.popup .times{color:#1b918d;font:normal 22px arial;position:absolute;right:0;top:0;margin:15px 10px 0 0;display:inline-block;background:url(/Images/icon/close.png?max_age=19830211&d=20121026222558) no-repeat;width:10px;height:9px}
+.popup .popup-success, .popup fieldset,.popup .popup-form{margin:15px 20px}
+.popup fieldset{padding:10px;line-height:20px;font-size:14px}
+.popup fieldset.popup-coupon{border:1px solid #1b918d}
+.popup legend{font:bold 14px '';color:#1b918d}
+.popup label{display:inline-block}
+.popup .field-span{margin-bottom:5px}
+.popup .field-span label{width:80px;text-align:right;line-height:26px}
+.popup .field-text input{border:1px solid #ccc;height:18px;line-height:18px;padding:3px;width:200px}
+.popup .error{color:#f00}
+.popup .popup-form .error{display:block;padding:4px 0 0 80px}
+.popup .popup-form .field-btn{padding-left:90px;margin:15px 0}
+.popup .popup-form .field-text a{color:#1B918D}
+.popup .popup-btm{background:#f5f5f5;padding:15px 20px 10px}
+.btn-gray,.btn-blue{background-image:url(/web/images/btn/sendbtn.png?max_age=19830211&d=20121026222558);background-repeat:no-repeat;display:inline-block;margin-right:15px;width:72px;height:28px;overflow:hidden;line-height:28px;border:0;font-size:14px;text-align:center;cursor:pointer}
+.btn-blue{background-position:left top;color:#fff}
+.btn-gray{background-position:left bottom;color:#505050}
+.btn-gray-long{background:url(/images/btn/greenbtn3.png?max_age=19830211&d=20121026222558) no-repeat left bottom;width:110px;height:28px;overflow:hidden;color:#fff;border:0;text-align:center;vertical-align:middle;line-height:28px;display:inline-block;cursor:pointer;font-size:14px}
+.field-check span{display:inline-block}
+.field-check input{float:left;width:16px;height:16px;overflow:hidden;margin:2px 4px 0 0;*margin-top:0;_margin-top:2px}
+.popup .checkmerchant{border:1px solid #ccc;background:#fff;padding:5px 0;margin:15px 0}
+.popup .checkmerchant span{padding:5px 10px}
+.popup .popup-success{padding:0 0 30px 70px;background:url(/web/images/icon/success.png?max_age=19830211&d=20121026222558) no-repeat left 10px}
+.popup .popup-success h5{color:#1b918d}
+.popup .popup-success .popup-info{color:#969696;line-height:18px;padding:5px 0 15px 0}
+.popup .popup-success .follow-merchant{line-height:18px;padding-right:15px}
+.popup .popup-success .follow-merchant input{margin:3px 0 0 0}
+.popup .info-cnt,.popup-box-cnt .text-bd{padding:25px 0 10px 0;text-align:center;line-height:22px;font-size:14px}
+.popup .info-cnt{display:block;padding:25px 0 10px;text-align:center}
+.popup-box-btns{text-align:center;margin:20px auto}
+.blue-sm-btn,.gray-sm-btn{background:url(/Images/btn/sendbtn.png?max_age=19830211&d=20121026222558) no-repeat;width:72px;height:29px;line-height:30px;cursor:pointer;margin:0 5px;border:0}
+.blue-sm-btn{background-position:0 0;color:#FFF}
+.gray-sm-btn{background-position:0 -28px;color:#666;height:29px}
+.popup-login fieldset{padding:30px 20px;background:url(/Images/User/line2.png?max_age=19830211&d=20121026222558) no-repeat right top;width:300px;overflow:hidden;border:0}
+.popup-login fieldset label,.popup-login fieldset span{display:inline-block;line-height:28px;height:28px;overflow:hidden;float:left}
+.popup-login fieldset label{text-align:right;font-size:14px;width:80px;float:left}
+.popup-login .field-text{width:185px;height:32px;overflow:hidden;background:url(/Images/User/signbg.png?max_age=19830211&d=20121026222558) no-repeat left top}
+.popup-login .field-check{padding-left:80px;margin-bottom:15px;clear:both}
+.popup-login .field-text input{border:0;width:180px;height:26px;overflow:hidden;background:none;font-size:14px;padding:2px;display:inline-block;line-height:28px}
+.popup-login .field-valid{width:95px;background-position:0 -32px}
+.popup-login .field-valid input{width:88px}
+.popup-login fieldset .field-span{margin-bottom:15px;clear:both;overflow:hidden}
+.popup-login .field-foot{padding-left:80px;font-size:12px}
+.popup-login .field-foot a{color:#06c}
+.popup-login .field-foot a:hover{text-decoration:underline}
+.popup-login #msg{padding-top:20px}
+.popup-login .login-part{padding:20px 0 0 40px}
+.popup-login .login-part ul{padding:10px 0}
+.popup-login .login-part li{padding:5px 0}
+.popup-login .login-part p a{color:#19928b}
+.popup-login .login-part p a:hover{text-decoration:underline}
+.popup-login #errorMsg{line-height:200%;padding-top:10px}
+.popup-login .open-login li{clear:both;margin-bottom:5px;line-height:18px}
+.popup-login .open-login span{float:left;margin-right:10px}
+.field-error{margin-bottom:0!important}
+#callback-msg{color:#f00;padding-left:20px}
+.popup-signup{width:680px}
+.popup-signup fieldset{width:340px}
+.popup-signup .login-part{padding-left:20px}
+.popup-signup .valid{padding:0}
+.popup-signup .user-form i{display:block;clear:both;color:#f00;line-height:28px;padding:0 0 0 80px}
+.popup-signup .user-form i.valid{display:inline-block;clear:none;background:url(/Images/checked.gif?max_age=19830211&d=20121026222558) no-repeat 5px 8px;width:20px;float:left;height:30px;padding:0}
+.popup-signup .field-check .valid{background:none}
+#GeneratedByCssGaga183{transform:rotate(20121026222558deg)}

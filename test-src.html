@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SRC</title>
+        <style>
+            p{margin:0 0; padding:10px; font:bold 16px/1.5 Thoma Arial; border-bottom:dotted #ccc 1px;}
+        </style>
+        <script type="text/javascript" src="scripts/libs/seajs/1.2.1/sea.js"></script>
+        <script type="text/javascript" src="scripts/libs/jquery/1.7.2/jquery.js"></script>
+        <script type="text/javascript" src="scripts/map-config.js"></script>
+    </head>
+    <body>
+        SRC
+        
+        <script type="text/javascript">
+            var PDW = PDW || {};
+            PDW.indexSlide = {};
+            seajs.use(["src/index"], function(o){
+                o.fInit();
+            });
+        </script>
+    </body>
+</html>

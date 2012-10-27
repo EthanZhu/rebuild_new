@@ -1,0 +1,19 @@
+.lr-pages{
+	position:fixed;
+	_position:absolute;
+	bottom:125px;
+	width:10%;
+	z-index: 5;
+}
+.lr-pages p{width:100px; height:100px; background:url(/Images/pic/pager.png); display:none; margin:125px auto 0; cursor: pointer;}
+.lr-pages a{width:100px; height:100px; background:url(/Images/pic/pager.png); display:none; margin:0 auto; cursor: pointer; overflow: hidden; text-indent: -9999px;}
+.lr-pages-left{left:0;}
+.lr-pages-right{right:0;}
+.lr-pages-left p{background-position:left top; }
+.lr-pages-right p{background-position:right top;}
+.lr-pages-left a{background-position:left top; }
+.lr-pages-right a{background-position:right top;}
+.lr-pages-left a:hover{background-position:left bottom;}
+.lr-pages-right a:hover{background-position:right bottom;}
+.lr-pages-left .active{background-position:left bottom;}
+.lr-pages-right a:hover{background-position:right bottom;}
